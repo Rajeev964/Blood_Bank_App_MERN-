@@ -1,14 +1,17 @@
 # Blood-Bank-Mern-Stack-Project
 complete mern stack blood bank project source code please check commits
 
-## project playlist 🎞
-https://youtube.com/playlist?list=PLuHGmgpyHfRzs3VmqXkguFuNknQFbT0db
+# Run React and Nodejs Concurrently :
+# Use Command
 
-# Thank you for watching TechinfoYT youtube channel
-😎 Please Like Share and Subscribe ! 🙏
+npm i concurrently
 
-# Having Any Isuse Or Query DM On Instagram 🤷‍♀️
-https://www.instagram.com/technical_update/
+"dev":  "concurrently\"npm run server \" \"npm run client \" "
+
+# Finally Run the command:
+Run these command on the root : 
+npm install 
+npm run dev
 
 
 
