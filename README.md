@@ -8,7 +8,7 @@ npm i concurrently
 "dev":  "concurrently\"npm run server \" \"npm run client \" "
 
 # Finally Run the command:
-#Run these command on the root : 
+# Run these command on the root : 
 npm install 
 npm run dev
 
